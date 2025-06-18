@@ -1,0 +1,52 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Plus_HD.png" group-title="Hindi",Star Plus HD
+http://watchindia.net:8880/live/39920/69150/1924.ts
+http://watchindia.net:8880/live/10155/34564/1924.ts
+http://watchindia.net:8880/live/82963/72037/1924.ts
+http://watchindia.net:8880/live/10155/34564/1924.ts
+http://watchindia.net:8880/live/41701/62215/1924.ts
+
+#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="Zee TV HD" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_TV.png" group-title="Hindi",Zee TV HD
+http://watchindia.net:8880/live/39920/69150/1970.ts
+http://watchindia.net:8880/live/10155/34564/1970.ts
+http://watchindia.net:8880/live/82963/72037/1970.ts
+http://watchindia.net:8880/live/10155/34564/1970.ts
+http://watchindia.net:8880/live/41701/62215/1970.ts
+
+#EXTINF:-1 tvg-id="colors.in" tvg-name="Colors TV HD (1)" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png" group-title="Hindi",Colors TV HD (1)
+http://watchindia.net:8880/live/39920/69150/801.ts
+http://watchindia.net:8880/live/10155/34564/801.ts
+http://watchindia.net:8880/live/82963/72037/801.ts
+http://watchindia.net:8880/live/10155/34564/801.ts
+http://watchindia.net:8880/live/41701/62215/801.ts
+
+#EXTINF:-1 tvg-id="colors.in" tvg-name="Colors TV HD (2)" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png" group-title="Hindi",Colors TV HD (2)
+http://watchindia.net:8880/live/39920/69150/2264.ts
+http://watchindia.net:8880/live/10155/34564/2264.ts
+http://watchindia.net:8880/live/82963/72037/2264.ts
+http://watchindia.net:8880/live/10155/34564/2264.ts
+http://watchindia.net:8880/live/41701/62215/2264.ts
+
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="Sony TV HD (1)" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_TV_HD.png" group-title="Hindi",Sony TV HD (1)
+http://watchindia.net:8880/live/39920/69150/1969.ts
+http://watchindia.net:8880/live/10155/34564/1969.ts
+http://watchindia.net:8880/live/82963/72037/1969.ts
+http://watchindia.net:8880/live/10155/34564/1969.ts
+http://watchindia.net:8880/live/41701/62215/1969.ts
+
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="Sony TV HD (2)" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_TV_HD.png" group-title="Hindi",Sony TV HD (2)
+http://watchindia.net:8880/live/39920/69150/2141.ts
+http://watchindia.net:8880/live/10155/34564/2141.ts
+http://watchindia.net:8880/live/82963/72037/2141.ts
+http://watchindia.net:8880/live/10155/34564/2141.ts
+http://watchindia.net:8880/live/41701/62215/2141.ts
+
+#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="Sony Sab HD" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Sab_HD.png" group-title="Hindi",Sony Sab HD
+http://watchindia.net:8880/live/39920/69150/2323.ts
+http://watchindia.net:8880/live/10155/34564/2323.ts
+http://watchindia.net:8880/live/82963/72037/2323.ts
+http://watchindia.net:8880/live/10155/34564/2323.ts
+http://watchindia.net:8880/live/41701/62215/2323.ts
+
