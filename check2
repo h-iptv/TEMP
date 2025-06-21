@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="http://your-worker.workers.dev/epg?token=CLIENT1_TOKEN"
+
+#EXTINF:-1 tvg-id="starplushd.in" group-title="Entertainment",Star Plus HD (1)
+https://your-worker.workers.dev/stream/starplus1?token=CLIENT1_TOKEN
+
+#EXTINF:-1 tvg-id="colors.in" group-title="Entertainment",Colors TV HD (1)
+https://your-worker.workers.dev/stream/colorstv1?token=CLIENT1_TOKEN
+
